@@ -1,14 +1,9 @@
 {
-{
-	"title" : "데이터1",
-	"author" : "paichai127",
-},
-{
-	"title" : "데이터2",
-	"author" : "paichai127",
-},
-{
-	"title" : "데이터3",
-	"author" : "paichai127",
-},
+	"post_list" : [{
+		"title" : "제목입니다",
+		"author":"작성자"
+		},{
+		"title" : "제목입니다",
+		"author":"작성자"
+	}]
 }
